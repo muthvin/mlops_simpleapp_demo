@@ -28,3 +28,9 @@ pip install -r requirements.txt
    git remote add origin https://github.com/muthvin/mlops_simpleapp_demo.git
    git branch -M main
    git push -u origin main
+7. Start updating params. yaml
+   Upload the created params.yaml to github
+8. create src/get_data.py 
+    - includes reading the csv as pandas df
+    - return df as output
+    
