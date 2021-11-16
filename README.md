@@ -33,4 +33,8 @@ pip install -r requirements.txt
 8. create src/get_data.py 
     - includes reading the csv as pandas df
     - return df as output
+9. create src/load_data.py
+    - modify the col_name
+10. create dvc.yaml
+11. Execute dvc repro
     
