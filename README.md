@@ -37,4 +37,7 @@ pip install -r requirements.txt
     - modify the col_name
 10. create dvc.yaml
 11. Execute dvc repro
+12. git push
+13. create src/split_data.py
+     - split the data into train/test
     
